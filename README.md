@@ -2,5 +2,6 @@
 
 Run code.ipynb (on Colab) to get the results.
 
-Name: Jiayi Dan 
+Project report: Report.pdf
+Name: Jiayi Dan   
 UNI: jd4243
