@@ -7,6 +7,6 @@ Project report: Report.pdf
 Name: Jiayi Dan   
 UNI: jd4243
 
-When encountering an OOM issue, you may need to restart the session and rerun specific parts. It occasionally occurs during the denoising and marker identification steps, but the process can be completed successfully after restarting.
- (**If you have run scVI, I strongly recommend restarting the session and rerun the code without performing scVI before executing the following steps to avoid potential OOM issue.**)
+I commented out the code related to scVI because it will take hours to run it and may cause OOM issues if you continue running the following cells. Therefore, I strongly recommend running the remaining uncommented cells first, then restarting the session, uncommenting, and rerun the code. The process can be completed successfully after restarting.
+
 
